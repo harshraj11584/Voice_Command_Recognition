@@ -1,7 +1,7 @@
 # Voice_Command_Recognition  
 Recognises Voice Commands recorded on System Microphone  
 
-Dataset [[link](https://drive.google.com/open?id=1WphvzO0RzqXIQRkMgpSyIu6eJCS7rPst)] of 120 files each, for 5 Voice Commands [back,forward,left,right,stop] was recorded by [Lakshit](https://github.com/Lakshit-Singla)   
+Dataset [[link](https://drive.google.com/file/d/1VNW6cxfaeFAyM4hKWNoR2TA72AHbE5nl/view?usp=sharing)] of 120 files each, for 5 Voice Commands [back,forward,left,right,stop] was recorded by [Lakshit](https://github.com/Lakshit-Singla)   
 Each of those 120 files were augmented to 2002 files using **augmentor.py** , then put into **full_dataset** folder  
 
 **Version 1** (v1) :  
