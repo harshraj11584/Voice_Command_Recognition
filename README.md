@@ -9,7 +9,12 @@ All audio files converted to frequency domain from time domain using MFCC coeffi
 **Version 2** (v2) :  
 Recorded Environment bias, trained on (recording,environment_bias) instead of just on recording. Got higher accuracy for same models as above.  
 
-  Use **record.py** to test with laptop microphone. It first averages current environment bias, then lets you try voice commands.   
+Use **record.py** to test with laptop microphone. It first averages current environment bias, then lets you try voice commands.   
+
+**Accuracy** :   
+![alt text](https://github.com/harshraj11584/Voice_Command_Recognition/blob/master/Random%20Forest%20_%20Accuracy%20.png "Random Forest Accuracy")   
+![alt text](https://github.com/harshraj11584/Voice_Command_Recognition/blob/master/Simple%20MLP%20_%20Accuracy%20.png "Simple MLP Accuracy")   
+ 
 
 
 
