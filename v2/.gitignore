@@ -1,0 +1,4 @@
+dataset_augmented/
+dataset_original/
+full_dataset/
+*.sav
